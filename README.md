@@ -7,3 +7,5 @@ So help me God.
 
 Let's continue.
 
+Day 5: I successfully connected my local repository to GitHub.
+
