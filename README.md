@@ -11,3 +11,8 @@ Let's continue.
 Day 5: I successfully connected my local repository to GitHub.
 
 Learning Git and GitHub - Day 6
+
+This changes was made on the feature branch.
+
+This program was updated using a feature branch.
+
